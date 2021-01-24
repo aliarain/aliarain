@@ -9,4 +9,4 @@
 - 📫 How to reach me: [Instagram - @realaliarain](http://instagram.com/realaliarain) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: i love reading books!
-[Ali Arain's github stats](https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&theme=dark)
+![Ali Arain's github stats](https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&theme=dark)
