@@ -11,5 +11,5 @@
 - ⚡ Fun fact: i love reading books!
 - Connect with Me:
               [Instagram - @realaliarain](http://instagram.com/realaliarain)
-![Ali Arain's github stats](https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&theme=dark)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarain&hide=tcl&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[Ali Arain's github stats](https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&theme=dark)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliarain&hide=tcl&langs_count=8&theme=dark)
