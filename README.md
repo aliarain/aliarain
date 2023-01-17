@@ -11,4 +11,4 @@
 - ⚡ Fun fact: i love reading books!
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&theme=dark">
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs)
