@@ -1,14 +1,13 @@
 ### Hello World 👋
 
 
-- 🔭 I’m currently working on Hello Mars Project.
-- 🌱 I’m currently learning Deep Learning
+- 🔭 I’m currently working on [remotedeck](http://remotedeck.vercel.com)
+- 🌱learning NextJS/Flutter to Build Great products for the world.
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Hello Mars Backend
-- 💬 Ask me about Web Dev or any tech realated stuff 
-- 📫 How to reach me: [Instagram - @realaliarain](http://instagram.com/realaliarain) 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: i love reading books!
+- 💬 Ask me about ai/ml/space/rockets/startups or any tech realated stuff 
+- 📫 How to reach me: mail: aliarain@raptr42.com [Instagram - @realaliarain](http://instagram.com/realaliarain) 
+- ⚡ Fun fact: i love building rockets models!
 
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs)
