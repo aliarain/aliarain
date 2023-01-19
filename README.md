@@ -9,6 +9,15 @@
 - 📫 How to reach me: mail: aliarain@raptr42.com [Instagram - @realaliarain](http://instagram.com/realaliarain) 
 - ⚡ Fun fact: i love building rockets models!
 - 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliarain" alt="aliarain" />
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&locale=en" alt="aliarain" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliarain&" alt="aliarain" />
+    </td>
+   </tr>
+</table>
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs)
+<!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs) -->
