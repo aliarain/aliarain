@@ -21,3 +21,4 @@
 </table>
 
 <!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs) -->
+<img align="center" src = "https://profile-counter.glitch.me/aliarain/count.svg" alt ="Loading...">
