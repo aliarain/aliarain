@@ -21,7 +21,7 @@
 </table>
 
 <!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs) -->
-<img align="center" src = "https://profile-counter.glitch.me/aliarain/count.svg" alt ="Loading...">
+<!-- <img align="center" src = "https://profile-counter.glitch.me/aliarain/count.svg" alt ="Loading...">
 [website]: https://aliarain.raptr42.com
 [mail]: mailto:aliarain@raptr42.com
 [twitter]: https://twitter.com/aliarain
@@ -29,3 +29,4 @@
 [github]: https://github.com/aliarain
 [instagram]: https://www.instagram.com/realaliarain
 [facebook]: https://www.facebook.com/aliarain11/
+ -->
