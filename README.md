@@ -8,6 +8,7 @@
 - 💬 Ask me about ai/ml/space/rockets/startups or any tech realated stuff 
 - 📫 How to reach me: mail: aliarain@raptr42.com [Instagram - @realaliarain](http://instagram.com/realaliarain) 
 - ⚡ Fun fact: i love building rockets models!
-
+- 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliarain" alt="aliarain" />
 
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs)
