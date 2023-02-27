@@ -1,14 +1,16 @@
 ### Hello World 👋
 
 
-- 🔭 I’m currently working on [remotedeck](http://remotedeck.vercel.com)
-- 🌱learning NextJS/Flutter to Build Great products for the world.
-- 👯 I’m looking to collaborate on Youtube
-- 🤔 I’m looking for help with Hello Mars Backend
-- 💬 Ask me about ai/ml/space/rockets/startups or any tech realated stuff 
-- 📫 How to reach me: mail: aliarain@raptr42.com [Instagram - @realaliarain](http://instagram.com/realaliarain) 
+- 🔭 founder raptr42 [raptr42](http://raptr42.com)
+- 🌱building creative tools with ai/ml.
+- 📖 i write blog [here](https://aliarain.raptr42.com/notes)
+- 👯 how im building the future read [here](https://aliarain.raptr42.com/future)
+- 👯join my substack channelh [here](https://aliarain.substack.com) 
+- 🚀 i love building/ designing rockets.
+- 💬 directly reach me on aliarain@rpatr42.com to get a fast response.
+- 📫 here's the list of books im [reading](https://aliarain.raptr42.com/bookshelf)
 - ⚡ Fun fact: i love building rockets models!
-- 
+- mostly active on twitter 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
