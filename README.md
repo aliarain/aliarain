@@ -5,9 +5,9 @@
 - 🌱building creative tools with ai/ml.
 - 📖 i write blog [here](https://aliarain.raptr42.com/notes)
 - 👯 how im building the future read [here](https://aliarain.raptr42.com/future)
-- 👯join my substack channelh [here](https://aliarain.substack.com) 
+- 👯join my substack channel [here](https://aliarain.substack.com) 
 - 🚀 i love building/ designing rockets.
-- 💬 directly reach me on aliarain@rpatr42.com to get a fast response.
+- 💬 directly reach me on [aliarain@raptr42.com](mail:aliarain@raptr42.com) to get a fast response.
 - 📫 here's the list of books im [reading](https://aliarain.raptr42.com/bookshelf)
 - ⚡ Fun fact: i love building rockets models!
 - mostly active on twitter 
