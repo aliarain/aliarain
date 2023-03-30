@@ -11,6 +11,7 @@
 - 📫 here's the list of books im [reading](https://aliarain.raptr42.com/bookshelf)
 - ⚡ Fun fact: i love building rockets models!
 - mostly active on twitter 
+![](https://komarev.com/ghpvc/?username=aliarain)
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
