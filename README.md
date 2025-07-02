@@ -21,6 +21,41 @@
 - 🖤 Obsessed with velocity, no bullshit, and real impact
 
 ---
+<p align="center">
+  <a href="https://www.chalogee.com">
+    <img src="https://img.shields.io/badge/🚧_Building-Chalogee.com-blueviolet?style=for-the-badge" />
+  </a>
+</p>
+### 🚧 Currently Building
+
+🧠 [Chalogee.com](https://www.chalogee.com) — The travel platform reimagined.
+
+- ✈️ Personalised travel discovery & AI-powered trip planning
+- ⚙️ Built solo with bleeding-edge stack:
+  - **Frontend:** Next.js, Tailwind, ShadCN UI
+  - **Backend:** FastAPI, Supabase, Clerk, tRPC, Prisma
+  - **Infra:** Railway, Vercel, GitHub Actions, Docker
+  - **Analytics & DX:** PostHog, Highlight, LogSnag, Sentry
+  - **AI Stack:** OpenAI, LangChain, Pinecone
+- 🧑‍💻 Dev speed: Terminal-level fast. Everything I touch compiles.
+
+💥 A solo-engineered product built like a startup team — AI-first, fast, and fully integrated.
+
+### 🧭 Now
+
+- 🚀 Rebuilding [Panagigs.com](https://panagigs.com) as an AI-first product company
+- ⚙️ Prototyping Supabase + Clerk SaaS with PostHog & OpenAI
+- 🧪 Running CLI + internal AI tools to move faster solo
+- 🔥 Ignoring trends. Shipping real stuff.
+---
+### 🧠 Stack Philosophy
+
+I don’t chase stacks. I pick tools that:
+- ✨ Move fast solo
+- ⚙️ Work well together
+- 🔍 Debug fast, scale smooth
+- 🧱 Build real products, not just pretty demos
+---
 
 ### 🧠 Tech I Actually Use
 
