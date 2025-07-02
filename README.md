@@ -20,6 +20,7 @@
     <td>
      <img src="https://github-readme-streak-stats.herokuapp.com?user=aliarain&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Ali Arain Stats" />
     </td>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8" alt ="Data"/>
    </tr>
 </table>
 
