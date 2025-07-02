@@ -18,7 +18,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&locale=en" alt="aliarain" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliarain&" alt="aliarain" />
+     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliarain&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
     </td>
    </tr>
 </table>
