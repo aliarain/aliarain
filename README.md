@@ -77,18 +77,21 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=aliarain)
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&locale=en" alt="aliarain" />
-    </td>
-    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=aliarain&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Ali Arain Stats" />
-    </td>
-     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8" alt ="Data"/>
-   </tr>
-</table>
+![](https://komarev.com/ghpvc/?username=aliarain&label=Profile%20Views&color=0e75b6&style=flat)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliarain&layout=compact&theme=radical" height="170" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aliarain&theme=tokyonight" />
+</p>
 
 <!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs) -->
 <!-- <img align="center" src = "https://profile-counter.glitch.me/aliarain/count.svg" alt ="Loading...">
