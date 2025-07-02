@@ -3,15 +3,16 @@
 
 - 🔭 founder raptr42 [raptr42](http://raptr42.com)
 - 🌱building creative tools with ai/ml.
-- 📖 i write blog [here](https://aliarain.raptr42.com/notes)
-- 👯 how im building the future read [here](https://aliarain.raptr42.com/future)
+- 📖 i write blog [here](https://aliarain.com/notes)
+- 👯 how im building the future read [here](https://aliarain.com/future)
 - 👯join my substack channel [here](https://aliarain.substack.com) 
 - 🚀 i love building/ designing rockets.
-- 💬 directly reach me on [aliarain@raptr42.com](mail:aliarain@raptr42.com) to get a fast response.
-- 📫 here's the list of books im [reading](https://aliarain.raptr42.com/bookshelf)
+- 💬 directly reach me on [realaliarain@gmail.com](mail:realaliarain@gmail.com) to get a fast response.
+- 📫 here's the list of books im [reading](https://aliarain.com/bookshelf)
 - ⚡ Fun fact: i love building rockets models!
 - mostly active on twitter 
 ![](https://komarev.com/ghpvc/?username=aliarain)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliarain&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
