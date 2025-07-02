@@ -93,6 +93,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aliarain&theme=tokyonight" />
 </p>
 
+### 🧠 Final Words
+
+> I’m not here for titles. I’m here to build.  
+> If you get it — cool.  
+> If not — build yours, I’ll build mine.
+
+Reach me → [realaliarain@gmail.com](mailto:realaliarain@gmail.com) • [aliarain.com](https://aliarain.com)
 <!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs) -->
 <!-- <img align="center" src = "https://profile-counter.glitch.me/aliarain/count.svg" alt ="Loading...">
 [website]: https://aliarain.raptr42.com
