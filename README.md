@@ -94,20 +94,7 @@ I don’t chase stacks. I pick tools that:
 ---
 
 ![](https://komarev.com/ghpvc/?username=aliarain&label=Profile%20Views&color=0e75b6&style=flat)
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliarain&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliarain&layout=compact&theme=radical" height="170" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aliarain&theme=tokyonight" />
-</p>
 
 ### 🧠 Final Words
 
