@@ -6,7 +6,7 @@
 <h1 align="center">Ali Arain — I build fast, I ship faster 🚀</h1>
 
 <p align="center">
-  Polymath dev. I write code like it matters. Founder @ <a href="https://raptr42.com" target="_blank">raptr42</a>.<br>
+  Polymath dev. I write code like it matters. Founder @ <a href="https://raptrx.com" target="_blank">raptrx</a>.<br>
   From 🧠 idea to 💻 product — AI-first, solo, and savage.
 </p>
 
@@ -15,7 +15,7 @@
 ### 💬 About Me (Short & Ruthless)
 
 - 🧠 Solo dev with startup execution speed
-- 💥 Building AI-first SaaS at [raptr42](https://raptr42.com)
+- 💥 Building AI-first SaaS at [raptrx](https://raptrx.com)
 - 🔧 Flutter / Laravel / Supabase / Clerk / OpenAI / PostHog / Whatever gets it done
 - 🌍 Living in Pakistan. Thinking in orbit.
 - 🖤 Obsessed with velocity, no bullshit, and real impact
