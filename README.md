@@ -1,7 +1,5 @@
 <!-- Profile Header -->
-<div align="center">
- <iframe src="https://giphy.com/embed/l3E6tufOobRlKeY6c" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/silicon-valley-l3E6tufOobRlKeY6c">via GIPHY</a></p>
-</div>
+
 # Ali Arain
 
 Full-stack developer from Pakistan. I build MVPs, AI products, and SaaS tools — solo, end-to-end, from zero to deployed. Client work through [raptrX](https://raptrx.com).
@@ -85,6 +83,8 @@ I document what I build at [aliarain.com/notes](https://aliarain.com/notes). Lau
 
 #### ☁️ Hosting & Infrastructure
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Azure-000?style=flat-square&logo=azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/AWS-000?style=flat-square&logo=aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
