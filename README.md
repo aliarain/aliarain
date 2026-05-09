@@ -1,3 +1,4 @@
+<img width="480" height="268" alt="giphy" src="https://github.com/user-attachments/assets/0a941305-85aa-455c-b1b1-a0c3d345d889" />
 <!-- Profile Header -->
 
 # Ali Arain
