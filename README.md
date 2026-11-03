@@ -3,44 +3,7 @@
 
 # Ali Arain
 
-Full-stack developer from Pakistan. I build MVPs, AI products, and SaaS tools , solo, end-to-end, from zero to deployed. Currently working at [Command Code](https://commandcode.ai).
-
-## Products I've Built
-
-**[NotchPrompt](https://notch.aliarain.com)** , Professional teleprompter for Mac, lives invisibly in the notch. Word-level real-time speech highlighting, 3 overlay modes, PPTX import, multi-display support. Hit #8 on Product Hunt at launch. v2.0 just shipped.
-
-**[SLCT](https://slctapp.com)** , AI-powered ATS. Post a job, AI screens all applicants, you get a ranked shortlist to swipe through. Built with Flutter + Laravel + MySQL. Replaces resume triage with scored shortlists.
-
-**[Ground](https://trygroundai.com)** , Memory and retrieval layer for AI. Implements Recursive Multi-Hop (RMH) retrieval on top of pgvector + Cohere embeddings. Returns cited context or refuses to answer when evidence is missing , no hallucination. Built on FastAPI + Python, deployed on Azure.
-
-**[Chalogee](https://chalogee.com)** , Tourism marketplace connecting travellers with local hosts. Full marketplace: listings, bookings, payments, reviews. Built with Flutter + Laravel.
-
-
-
----
-
-## Open Source Packages
-
-| Package | Platform | What it does |
-|---------|----------|--------------|
-| [askai](https://www.npmjs.com/package/@raptrx/askai) | npm | Add "Ask AI" to any web app in minutes |
-| [Fluttrify](https://pub.dev/packages/fluttrify) | pub.dev | Flutter UI utilities |
-| [bank_alfalah_payment](https://pub.dev/packages/bank_alfalah_payment) | pub.dev | Bank Alfalah payment gateway for Flutter |
-| [AssetKamKaro](https://pub.dev/packages/assetkamkaro) | pub.dev | Flutter asset optimization |
-
----
-
-## What I Actually Do
-
-I take a product from idea to production , solo. That means:
-
-- Designing the database schema and API architecture
-- Building the backend (Laravel or FastAPI depending on the problem)
-- Building the mobile app (Flutter) or web frontend (Next.js)
-- Writing the deployment config, setting up CI/CD, deploying to AWS or Azure
-- Handing over clean, documented code the client can maintain or extend
-
-No subcontracting. No hand-offs. One person, full product.
+Full-stack developer from Pakistan. Currently working at [Command Code](https://commandcode.ai).
 
 ---
 
