@@ -3,7 +3,7 @@
 
 # Ali Arain
 
-Full-stack developer from Pakistan. I build MVPs, AI products, and SaaS tools , solo, end-to-end, from zero to deployed. Client work through [raptrX](https://raptrx.com).
+Full-stack developer from Pakistan. I build MVPs, AI products, and SaaS tools , solo, end-to-end, from zero to deployed. Currently working at [Command Code](https://commandcode.ai).
 
 ## Products I've Built
 
@@ -41,12 +41,6 @@ I take a product from idea to production , solo. That means:
 - Handing over clean, documented code the client can maintain or extend
 
 No subcontracting. No hand-offs. One person, full product.
-
----
-
-## Client Work
-
-I take on fixed-price MVP projects through [raptrX](https://raptrx.com). Typical scope: $500–$3,000, delivered in 2–4 weeks. Currently focused on UK/Europe founders building SaaS, AI tools, or marketplace products.
 
 ---
 
