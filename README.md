@@ -1,9 +1,6 @@
-<img width="480" height="268" alt="giphy" src="https://github.com/user-attachments/assets/0a941305-85aa-455c-b1b1-a0c3d345d889" />
-<!-- Profile Header -->
-
 # Ali Arain
 
-Full-stack developer from Pakistan. Currently working at [Command Code](https://commandcode.ai).
+Full-stack developer. Currently building at [Command Code](https://commandcode.ai), the coding agent for open models.
 
 ---
 
@@ -36,8 +33,8 @@ Full-stack developer from Pakistan. Currently working at [Command Code](https://
 
 #### ☁️ Hosting & Infrastructure
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Vercel](https://img.shields.io/badge/Azure-000?style=flat-square&logo=azure&logoColor=white)
-![Vercel](https://img.shields.io/badge/AWS-000?style=flat-square&logo=aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-000?style=flat-square&logo=azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=aws&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
@@ -68,9 +65,6 @@ Full-stack developer from Pakistan. Currently working at [Command Code](https://
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aliarain&theme=tokyonight&hide_border=true" />
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=aliarain&label=Profile%20Views&color=0e75b6&style=flat)
-
 <p align="center">
   <i>⭐ If you're building something, let's talk. I respond to everyone.</i>
 </p>
@@ -80,8 +74,6 @@ Full-stack developer from Pakistan. Currently working at [Command Code](https://
 Reach me → [realaliarain@gmail.com](mailto:realaliarain@gmail.com) • [aliarain.com](https://aliarain.com)
 <!-- ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliarain&hide=contribs,prs) -->
 <!-- <img align="center" src = "https://profile-counter.glitch.me/aliarain/count.svg" alt ="Loading...">
-[website]: https://aliarain.raptr42.com
-[mail]: mailto:aliarain@raptr42.com
 [twitter]: https://twitter.com/aliarain
 [linkedin]: https://linkedin.com/in/realaliarain
 [github]: https://github.com/aliarain
