@@ -7,11 +7,6 @@ Full-stack developer from Pakistan. Currently working at [Command Code](https://
 
 ---
 
-## Writing
-
-I document what I build at [aliarain.com/notes](https://aliarain.com/notes). Launch posts, technical decisions, honest retrospectives.
-
-
 ### ⚡ Tech Stack (What I Actually Use)
 
 #### 🎨 Frontend
